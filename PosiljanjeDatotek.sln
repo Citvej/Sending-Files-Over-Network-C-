@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosiljanjeDatotek", "PosiljanjeDatotek\PosiljanjeDatotek.csproj", "{9BC7439B-EAF6-4A6F-B21B-BD962388DB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC7439B-EAF6-4A6F-B21B-BD962388DB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC7439B-EAF6-4A6F-B21B-BD962388DB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC7439B-EAF6-4A6F-B21B-BD962388DB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC7439B-EAF6-4A6F-B21B-BD962388DB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DE2A75-80F2-4891-BF99-B3B6BC94DEF6}
+	EndGlobalSection
+EndGlobal

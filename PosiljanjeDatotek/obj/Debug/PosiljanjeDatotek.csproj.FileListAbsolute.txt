@@ -1,0 +1,10 @@
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\bin\Debug\PosiljanjeDatotek.exe.config
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\bin\Debug\PosiljanjeDatotek.exe
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\bin\Debug\PosiljanjeDatotek.pdb
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.csprojAssemblyReference.cache
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.Form1.resources
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.Properties.Resources.resources
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.csproj.GenerateResource.cache
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.exe
+C:\Users\neven\source\repos\PosiljanjeDatotek\PosiljanjeDatotek\obj\Debug\PosiljanjeDatotek.pdb
